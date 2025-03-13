@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1741792542914,
+      "tag": "0000_orange_gideon",
+      "breakpoints": true
+    }
+  ]
+}
